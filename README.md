@@ -22,3 +22,6 @@
 
 ## Link :
    URL : SOON
+
+## Images : 
+![SimonSay](https://github.com/Siddharthbobade/CSS-Mini_Project/assets/142419287/0e946074-6b44-4b8c-872c-6ad5605defd4)
